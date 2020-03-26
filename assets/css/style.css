@@ -363,6 +363,14 @@ footer .cv-pdf i:hover {
     margin-bottom: 30px;
 }
 
+
+/*--------------------------------------------Map*/
+
+div#map {
+    min-height: 360px;
+}
+
+
 /*--------------------------------------------Contact*/
 
 .contact-heading {
@@ -386,11 +394,6 @@ button[type="submit"] {
     color: #fafafa;
 }
 
-/*--------------------------------------------Map*/
-div#map {
-    min-height: 360px;
-}
-
 /*--------------------------------------------Media Queries*/
 
 @media(min-width: 992px) {
@@ -407,4 +410,3 @@ div#map {
         max-width: 50%;
     }
 }
-
